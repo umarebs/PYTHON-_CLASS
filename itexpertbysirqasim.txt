@@ -1,0 +1,4 @@
+Saylani@729
+when an object perform some function then it is called method and if we talk about properties of object then it is called attribute.
+
+a variable contains method which performs inline action without changing the original.
